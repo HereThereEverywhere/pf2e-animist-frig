@@ -17,7 +17,7 @@
     { "lang": "pl", "name": "Polski", "path": "lang/pl.json" }
   ],
   "esmodules": ["scripts/main.js"],
-  "styles": ["styles/main.css"],
+
   "packFolders": [],
   "packs": [
     {
