@@ -32,9 +32,7 @@
       "path": "lang/pl.json"
     }
   ],
-  "esmodules": [
-    "main.mjs"
-  ],
+  "esmodules": ["scripts/main.mjs"],
   "styles": [
     "styles/main.css"
   ],
